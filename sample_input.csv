@@ -1,0 +1,5 @@
+From,To,Distance
+Depot,A,5
+A,B,4
+B,C,3
+C,Depot,6
